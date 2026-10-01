@@ -1,7 +1,6 @@
 ## Hi there 👋
 ## Tech0wl - GROUP
-## Site institucional
-https://tech0wl-2026.github.io/
+## Site institucional https://tech0wl-2026.github.io/
 <!--
 **Tech0wl-2026/Tech0wl-2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
