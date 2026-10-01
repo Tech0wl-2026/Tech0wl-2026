@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Tech0wl - GROUP
 ## Site institucional <a href="https://www.google.com](https://tech0wl-2026.github.io" target="_blank">https://tech0wl-2026.github.io</a>
 <!--
