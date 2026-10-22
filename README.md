@@ -1,4 +1,4 @@
-## Tech0wl - GROUP --asdasdasda
+## Tech0wl
 ## Site institucional <a href="https://www.google.com](https://tech0wl-2026.github.io" target="_blank">https://tech0wl-2026.github.io</a>
 <!--
 **Tech0wl-2026/Tech0wl-2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
